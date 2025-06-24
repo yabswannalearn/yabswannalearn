@@ -1,4 +1,7 @@
-# Hi, I am Reinael                                         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reinael-yabut-83b735303) 
+# Hi, I am Reinael  <a href="https://www.linkedin.com/in/reinael-yabut-83b735303">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+       align="right" height="28">
+</a>
 
 I'm Reinael, a Computer Engineer undergrad exploring Data Analysis, Data Science, and AI/ML. Currently upscaling my knowledge and skills in the Data world.
 ## [CLICK HERE - ALL CERTIFICATIONS](https://github.com/yabswannalearn/yabswannalearn/blob/main/Certificates%20V2.md)
