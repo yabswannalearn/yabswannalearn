@@ -18,7 +18,7 @@
 - [Udacity | Introducing Generative AI with AWS](https://www.udacity.com/certificate/e/69aec81a-4357-11f0-ae52-5b8fe5f4669c) | Issued: June 2025  
 - [Google | Prompting Essentials](https://www.coursera.org/account/accomplishments/verify/URDFCJHJVR7S) | Issued: March 2025  
 - [AWS | Machine Learning Fundamentals](https://www.credly.com/badges/1c004b5a-e348-456a-91d1-f5bcec26ad62/public_url) | Issued: June 2025  
-
+- [IBM | Artificial Intelligence Fundamentals](https://www.credly.com/badges/e9af4897-522f-47a7-9f83-a4e66d86ed53/public_url) Issued: June 2025
 ---
 
 ## Networking & Automation
