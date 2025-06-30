@@ -3,7 +3,7 @@
 I'm Reinael, a Computer Engineer undergrad exploring Data Analysis, Data Science, and AI/ML. Currently upscaling my knowledge and skills in the Data world.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reinaelyabut) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/reinaelyabut) 
 ## [CLICK HERE - ALL CERTIFICATIONS](https://github.com/yabswannalearn/yabswannalearn/blob/main/Certificates%20V2.md)
 
 ![DataCamp](https://img.shields.io/badge/DataCamp-003B49?style=for-the-badge&logo=datacamp&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) ![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6C2C?style=for-the-badge&logo=simplilearn&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
