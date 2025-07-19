@@ -5,7 +5,8 @@
 - [DataCamp | SQL Associate](https://www.datacamp.com/certificate/SQA0017867161732) | Issued: May 2025  
 - [HackerRank | SQL (Advanced)](https://www.hackerrank.com/certificates/8e171005b820) | Issued: April 2025  
 - [HackerRank | SQL (Basic)](https://www.hackerrank.com/certificates/d34e61c71c1e) | Issued: April 2025  
-- [SimpliLearn | Excel Automation using ChatGPT](https://simpli-web.app.link/e/1x0YiRLzFSb) | Issued: April 2025  
+- [SimpliLearn | Excel Automation using ChatGPT](https://simpli-web.app.link/e/1x0YiRLzFSb) | Issued: April 2025
+- [DataCamp | Data Literacy](https://www.datacamp.com/skill-verification/DL0035382977654) | Issued: July 2025
 ---
 ## AI & Generative Technologies
 - [DataCamp | AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0029628181964) | Issued: May 2025  
